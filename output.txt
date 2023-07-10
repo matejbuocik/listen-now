@@ -1,0 +1,9 @@
+=============================
+sent from nc.
+will you sometimes send something back? just asking
+=============================
+hello again
+and bye
+=============================
+[127.0.0.1:38388] hi there
+[127.0.0.1:38388] whoami?
